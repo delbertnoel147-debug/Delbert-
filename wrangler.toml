@@ -1,0 +1,10 @@
+name = "nusantara-ai"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
+
+[vars]
+MODEL = "gemini-2.5-flash"
